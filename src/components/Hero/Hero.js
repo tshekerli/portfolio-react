@@ -7,7 +7,7 @@ import {
   HeroLeft,
   HeroRight,
   Image,
-  ScrollDown,
+  ScrollDown
 } 
 from "./HeroElements";
 import { TypeAnimation } from 'react-type-animation';
