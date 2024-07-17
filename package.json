@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react",
-  "homepage": "https://joshdevkit.github.io/my-react-portfolio",
-  "version": "0.1.0",
+  "homepage": "https://tshekerli.netlify.app/",
+  "version": "1",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
@@ -20,6 +20,9 @@
     "react-type-animation": "^3.0.1",
     "styled-components": "^5.3.11",
     "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.x"
   },
   "scripts": {
     "start": "react-scripts start",
