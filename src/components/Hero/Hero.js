@@ -8,7 +8,7 @@ import {
   HeroRight,
   Image,
   ScrollDown,
-  ScrollLink,
+  
 } from "./HeroElements";
 import { TypeAnimation } from 'react-type-animation';
 import ScrollAnimation from "react-animate-on-scroll";
