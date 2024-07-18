@@ -1,4 +1,5 @@
 // --------------------------------------- Project List
+import Logo from "./logo.jpeg"
 export const ProjectList = [
   {
     img: "https://flybudget.netlify.app/static/media/logo.5d12989559e6fd60331f.jpg",
@@ -10,7 +11,7 @@ export const ProjectList = [
     demo_url: "https://flybudget.netlify.app/",
   },
   {
-    img: "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/2289a657-8438-4f80-98d8-379cf6c34232/DallEGeneratedImages/dalle-3adc4931-f1e4-4cb0-9372-2d5f0de16ecd0251681101635579831500.jpg&dcHint=JapanEast&fileToken=6386df31-b7ff-418b-bda3-927ad594b289",
+    img: Logo,
     title: "Train Pro",
     description:
       "An Application that makes finding training methods easier to users",
