@@ -37,7 +37,7 @@ export const ProjectList = [
       "An Application that you can use for entertainment, looking at topics and selecting quiz to pass your time and have fun",
     tech_stack: ["Javascript","Html", "React", "Netlify", "Css" ],
     github_url: "",
-    demo_url: "https://hnse.netlify.app/",
+    demo_url: "https://quizhub254.netlify.app/",
   },
   
 ];
