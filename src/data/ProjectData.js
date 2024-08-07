@@ -1,6 +1,7 @@
 // --------------------------------------- Project List
 import Logo from "./logo.jpeg"
 import HnseLogo from "./hnse_logo.jpeg"
+import QhLogo from "./qhlogo.jpeg"
 export const ProjectList = [
   {
     img: "https://flybudget.netlify.app/static/media/logo.5d12989559e6fd60331f.jpg",
@@ -25,6 +26,15 @@ export const ProjectList = [
     title: "Hacker News Search Engine",
     description:
       "An Application that you can use to query searches from Hacker News",
+    tech_stack: ["React", "Netlify", "Css" ],
+    github_url: "",
+    demo_url: "https://hnse.netlify.app/",
+  },
+  {
+    img: QhLogo,
+    title: "QuizHub",
+    description:
+      "An Application that you can use for entertainment, looking at topics and selecting quiz to pass your time and have fun",
     tech_stack: ["React", "Netlify", "Css" ],
     github_url: "",
     demo_url: "https://hnse.netlify.app/",
