@@ -1,5 +1,6 @@
 // --------------------------------------- Project List
 import Logo from "./logo.jpeg"
+import HnseLogo from "./HnseLogo.jpeg"
 export const ProjectList = [
   {
     img: "https://flybudget.netlify.app/static/media/logo.5d12989559e6fd60331f.jpg",
@@ -18,6 +19,15 @@ export const ProjectList = [
     tech_stack: ["React", "Django", "Flask", "Heroku", "HerokuSql"],
     github_url: "",
     demo_url: "https://trainder-e3c8779c54a1.herokuapp.com/",
+  },
+  {
+    img: HnseLogo,
+    title: "Hacker News Search Engine",
+    description:
+      "An Application that you can use to query searches from Hacker News",
+    tech_stack: ["React", "Netlify", "Css" ],
+    github_url: "",
+    demo_url: "https://hnse.netlify.app/",
   },
   
 ];
