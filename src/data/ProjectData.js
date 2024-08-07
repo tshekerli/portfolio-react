@@ -1,6 +1,6 @@
 // --------------------------------------- Project List
 import Logo from "./logo.jpeg"
-import HnseLogo from "./HnseLogo.jpeg"
+import HnseLogo from "./hnse_logo.jpeg"
 export const ProjectList = [
   {
     img: "https://flybudget.netlify.app/static/media/logo.5d12989559e6fd60331f.jpg",
