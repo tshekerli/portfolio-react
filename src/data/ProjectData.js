@@ -2,6 +2,8 @@
 import Logo from "./logo.jpeg"
 import HnseLogo from "./hnse_logo.jpeg"
 import QhLogo from "./qhlogo.jpeg"
+import blissLogo from "./iptvbliss.org.jpeg"
+import vibeLogo from "./iptvvibe.com.jpeg"
 export const ProjectList = [
   {
     img: "https://flybudget.netlify.app/static/media/logo.5d12989559e6fd60331f.jpg",
@@ -38,6 +40,24 @@ export const ProjectList = [
     tech_stack: ["Javascript","Html", "React", "Netlify", "Css" ],
     github_url: "",
     demo_url: "https://quizhub254.netlify.app/",
+  },
+  {
+    img: blissLogo,
+    title: "IPTV BLiss",
+    description:
+      "A site for buying IPTV subscription",
+    tech_stack: ["Javascript","Html", "React", "Netlify", "Css" ],
+    github_url: "",
+    demo_url: "https://iptvbliss.org/",
+  },
+  {
+    img: vibeLogo,
+    title: "QuizHub",
+    description:
+      "A site for buying IPTV subscription",
+    tech_stack: ["Javascript","Html", "React", "Netlify", "Css" ],
+    github_url: "",
+    demo_url: "https://iptvvibe.com/",
   },
   
 ];
