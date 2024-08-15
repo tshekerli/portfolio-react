@@ -52,7 +52,7 @@ export const ProjectList = [
   },
   {
     img: vibeLogo,
-    title: "QuizHub",
+    title: "IPTV Vibe",
     description:
       "A site for buying IPTV subscription",
     tech_stack: ["Javascript","Html", "React", "Netlify", "Css" ],
