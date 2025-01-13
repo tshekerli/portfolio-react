@@ -92,6 +92,18 @@ export const stackList = [
     name: "ReactJS",
   },
   {
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqzMqxo3FdmgI207Z1QuXm6ndnJxp7QGm_g&s",
+    name: "AngularJS",
+  },
+  {
+    img: "https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format,compress",
+    name: "NextJS",
+  },
+  {
+    img: "https://cdn.prod.website-files.com/628e6648a47e6727d5c69a2a/62f120f634f46f92d05298c6_MongoDB_Logo.svg.png",
+    name: "ReactJS",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
